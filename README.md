@@ -14,7 +14,6 @@ Most of my projects begin with _"I could probably build that"_ and become consid
 
 > Sometimes reinventing the wheel is more interesting than using it.
 
----
 
 ## 🤖 AI & development
 
@@ -24,6 +23,15 @@ For me, AI is a tool to do repetitive tasks, to research, to prototype,to debug 
 
 I don't use it as a replacement for understanding what I'm building. I use it to **spend less time on boring or slow tasks** allowing me to work on multiple project at once.
 
----
 
 ## 📊 GitHub
+
+<div align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=fraa2a&theme=github_dark" width="100%" />
+
+<br>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=fraa2a&theme=github_dark" width="49%" /> <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=fraa2a&theme=github_dark" width="49%" />
+
+</div>
