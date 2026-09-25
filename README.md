@@ -4,11 +4,11 @@
 
 ---
 
+## 👋 About me
+
 <p align="center">
   <img alt="built in" src="https://shieldcn.dev/flag/it.svg" />
 </p>
-
-## 👋 About me
 
 I'm **Francesco**, an Italian student and developer interested in software, Linux and understanding how things work under the hood.
 I learn mostly by **building things, experimenting, breaking stuff and figuring out how to make it work again**.
@@ -41,5 +41,3 @@ I don't use it as a replacement for understanding what I'm building. I use it to
   <img alt="badge" src="https://shieldcn.dev/badge/Git.svg?logo=git" />
   <img alt="badge" src="https://shieldcn.dev/badge/Arch Linux.svg?logo=archlinux" />
 </p>
-
----
