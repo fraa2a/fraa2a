@@ -1,6 +1,4 @@
-<p align="center">
-  <img alt="banner" src="_Assets/banner.png" />
-</p>
+![Baner](_Assets/banner.png)
 
 ---
 
@@ -13,10 +11,10 @@ Most of my projects begin with _"I could probably build that"_ and become consid
 
 *Sometimes reinventing the wheel is more interesting than using it.*
 
+
 <p align="center">
   <img alt="built in" src="https://shieldcn.dev/flag/it.svg" />
 </p>
-
 ## Im into:
 - 🦀 Rust
 - 💻 Desktop software
