@@ -6,16 +6,16 @@
 
 ## 👋 About me
 
-<p align="center">
-  <img alt="built in" src="https://shieldcn.dev/flag/it.svg" />
-</p>
-
 I'm **Francesco**, an Italian student and developer interested in software, Linux and understanding how things work under the hood.
 I learn mostly by **building things, experimenting, breaking stuff and figuring out how to make it work again**.
 
 Most of my projects begin with _"I could probably build that"_ and become considerably larger.
 
 *Sometimes reinventing the wheel is more interesting than using it.*
+
+<p align="center">
+  <img alt="built in" src="https://shieldcn.dev/flag/it.svg" />
+</p>
 
 ## Im into:
 - 🦀 Rust
