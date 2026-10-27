@@ -33,9 +33,10 @@ I don't use it as a replacement for understanding what I'm building. I use it to
 ## Stack
 
 <p align="center">
-  <img alt="Custom badge" src="https://shieldcn.dev/badge/Rust.svg?logo=rust&amp;color=f97316" />
-  <img alt="badge" src="https://shieldcn.dev/badge/Python.svg?logo=python&amp;color=0061ff" />
-  <img alt="badge" src="https://shieldcn.dev/badge/Svelte.svg?logo=svelte&amp;color=ff4200" />
-  <img alt="badge" src="https://shieldcn.dev/badge/Git.svg?logo=git" />
-  <img alt="badge" src="https://shieldcn.dev/badge/Arch Linux.svg?logo=archlinux" />
+  <img alt="Rust" src="https://shieldcn.dev/badge/Rust.svg?logo=rust&color=f97316" />
+  <img alt="Python" src="https://shieldcn.dev/badge/Python.svg?logo=python&color=0061ff" />
+  <img alt="TypeScript" src="https://shieldcn.dev/badge/TypeScript.svg?logo=typescript&color=3178c6" />
+  <img alt="Java" src="https://shieldcn.dev/badge/Java.svg?logo=openjdk&color=f89820" />
+  <img alt="Git" src="https://shieldcn.dev/badge/Git.svg?logo=git" />
+  <img alt="Arch Linux" src="https://shieldcn.dev/badge/Arch%20Linux.svg?logo=archlinux" />
 </p>
