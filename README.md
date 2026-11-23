@@ -1,34 +1,38 @@
-![Baner](_Assets/banner.png)
+![Banner](_Assets/banner.png)
 
 ---
 
 ## 👋 About me
 
-I'm **Francesco**, an Italian student and developer interested in software, Linux and understanding how things work under the hood.
-I learn mostly by **building things, experimenting, breaking stuff and figuring out how to make it work again**.
+I'm **Francesco**, a software developer based in Italy.
+I design and ship cross-platform desktop apps, terminal tools and websites, built with Rust and modern web technologies.
 
-Most of my projects begin with _"I could probably build that"_ and become considerably larger.
+I own the architecture and every technical decision. AI turns my plans into code, so I can ship fast without losing control of what's inside.
 
-*Sometimes reinventing the wheel is more interesting than using it.*
+Most of my projects start with _"I could probably build that"_ and turn out considerably larger.
+
+🌐 **Portfolio:** [fraa2a.dev](https://www.fraa2a.dev/)
 
 <p align="center">
   <img alt="built in" src="https://shieldcn.dev/flag/it.svg" />
 </p>
 
-## Im into:
-- 🦀 Rust
-- 💻 Desktop software
-- 🐧 Linux-compatible software
-- 🌐 Self-hosting, servers & infrastructure
-- 🔧 Building tools that i need for fun
-- 🤖 AI agents & automation
-- 🎮 Minecraft Plugins
+## What I do
+
+- **Desktop & terminal software**: cross-platform apps and tools in Rust and Tauri
+- **Websites**: built end to end, from design to deploy
+- **Systems & self-hosting**: Linux, servers and infrastructure
+
+## Projects
+
+- **[Legio](https://github.com/fraa2a/Legio)**: cross-platform game launcher built with Tauri, Rust and Svelte.
+
+More at [fraa2a.dev](https://www.fraa2a.dev/).
 
 ## AI & development
 
-I use **AI in many of my projects**.
-For me, AI is a tool to do repetitive tasks, to research, to prototype,to debug and do tasks that could otherwise take hours of time.
-I don't use it as a replacement for understanding what I'm building. I use it to **spend less time on boring or slow tasks** allowing me to work on multiple project at once.
+I own the architecture and every technical decision: I plan the work, define the structure and review what ships.
+AI turns those plans into code. It handles the repetitive, slow parts (research, prototyping, debugging) so I can **spend less time on long tasks and work on multiple projects at once**.
 
 ## Stack
 
