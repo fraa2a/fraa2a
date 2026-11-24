@@ -32,7 +32,7 @@ More at [fraa2a.dev](https://www.fraa2a.dev/).
 ## AI & development
 
 I own the architecture and every technical decision: I plan the work, define the structure and review what ships.
-AI turns those plans into code. It handles the repetitive, slow parts (research, prototyping, debugging) so I can **spend less time on long tasks and work on multiple projects at once**.
+AI turns those plans into code. It handles the repetitive, slow parts so I can **spend less time on long tasks and work on multiple projects at once**.
 
 ## Stack
 
